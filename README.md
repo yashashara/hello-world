@@ -1,2 +1,3 @@
 # hello-world
-Test
+Test file.
+A small step in to the ever expanding coding universe.
